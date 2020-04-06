@@ -1,0 +1,28 @@
+.mt-custom{
+    margin-top: 75px;
+    & > .user-avatar{
+        & > .avatar {
+            display: block;
+        }
+        & > .user-name {
+            display: block;
+            font : {
+                size : 24px;
+                weight : 100;
+            };
+        }
+    }
+    & > .user-details{
+        span{
+            display: block;
+        }
+        & > .passChange{
+            display: inline;
+            & > .editIcon {
+                display: inline;
+                cursor: pointer;
+                padding: 5px;
+            }
+        }
+    }
+}

@@ -1,0 +1,117 @@
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ab6"},"id":"1","semester":"2","subjectcode":"HS8251","subjectname":"Technical English","staffname":"Mr.K.S.Srinivas","dept":"EEE","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ab7"},"id":"2","semester":"2","subjectcode":"MA8251","subjectname":"Engineering Mathematics -II","staffname":"Mr.M.Karuppsamy","dept":"EEE","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ab8"},"id":"3","semester":"2","subjectcode":"PH8253","subjectname":"Physics For Electronics Engineering","staffname":"Dr.V. Vasanth","dept":"EEE","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ab9"},"id":"4","semester":"2","subjectcode":"BE8252","subjectname":"Basic Civil and Mechanical Engineering","staffname":"Mr.P.Arun Sankar","dept":"EEE","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0aba"},"id":"5","semester":"2","subjectcode":"BE8254","subjectname":"Basic Electrical and Instrumentation Engg.","staffname":"Mr.M.Muthukumaran","dept":"EEE","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0abb"},"id":"6","semester":"2","subjectcode":"EE8251","subjectname":"Circuit Theory","staffname":"Mr.J.Saravanan","dept":"EEE","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0abc"},"id":"7","semester":"2","subjectcode":"GE8291","subjectname":"Environmental Science and Engineering","staffname":"Dr.J.Dharmaraja","dept":"EEE","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0abd"},"id":"8","semester":"2","subjectcode":"EC8252","subjectname":"Electronic Devices","staffname":"Mrs.G.Anushri","dept":"EEE","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0abe"},"id":"9","semester":"2","subjectcode":"HS8251","subjectname":"Technical English","staffname":"Mr.K.S.Srinivas","dept":"ECE","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0abf"},"id":"10","semester":"2","subjectcode":"MA8251","subjectname":"Engineering Mathematics -II","staffname":"Mr.M.Karuppsamy","dept":"ECE","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ac0"},"id":"11","semester":"2","subjectcode":"PH8253","subjectname":"Physics For Electronics Engineering","staffname":"Dr.V. Vasanth","dept":"ECE","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ac1"},"id":"12","semester":"2","subjectcode":"BE8252","subjectname":"Basic Civil and Mechanical Engineering","staffname":"Mr.P.Arun Sankar","dept":"ECE","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ac2"},"id":"13","semester":"2","subjectcode":"BE8254","subjectname":"Basic Electrical and Instrumentation Engg.","staffname":"Mr.M.Muthukumaran","dept":"ECE","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ac3"},"id":"14","semester":"2","subjectcode":"EE8251","subjectname":"Circuit Theory","staffname":"Mr.J.Saravanan","dept":"ECE","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ac4"},"id":"15","semester":"2","subjectcode":"GE8291","subjectname":"Environmental Science and Engineering","staffname":"Dr.J.Dharmaraja","dept":"ECE","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ac5"},"id":"16","semester":"2","subjectcode":"EC8252","subjectname":"Electronic Devices","staffname":"Mrs.G.Anushri","dept":"ECE","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ac6"},"id":"17","semester":"2","subjectcode":"HS8251","subjectname":"Technical English","staffname":"Mr.M.Bharathiraja","dept":"CSE","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ac7"},"id":"18","semester":"2","subjectcode":"MA8251","subjectname":"Engineering Mathematics -II","staffname":"Mr.R.Prabakaran","dept":"CSE","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ac8"},"id":"19","semester":"2","subjectcode":"PH8252","subjectname":"Physics For Information Science","staffname":"Dr.V. Vasanth","dept":"CSE","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ac9"},"id":"20","semester":"2","subjectcode":"BE8255","subjectname":"\"Basic Electrical","staffname":" Electronics & Measurement Engg.\"","dept":"Mrs.G.Anushri","year":"CSE"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0aca"},"id":"21","semester":"2","subjectcode":"GE8291","subjectname":"Environmental Science and Engineering","staffname":"Dr.J.Dharmaraja","dept":"CSE","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0acb"},"id":"22","semester":"2","subjectcode":"CS8251","subjectname":"Progamming in C","staffname":"Mr.S. Ganeshkumar","dept":"CSE","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0acc"},"id":"23","semester":"2","subjectcode":"HS8251","subjectname":"Technical English","staffname":"Mr.M.Bharathiraja","dept":"CIVIL","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0acd"},"id":"24","semester":"2","subjectcode":"MA8251","subjectname":"Engineering Mathematics -II","staffname":"Mr.M.Karuppsamy","dept":"CIVIL","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ace"},"id":"25","semester":"2","subjectcode":"PH8201","subjectname":"Physics For Civil Engg.","staffname":"Dr.V. Vasanth","dept":"CIVIL","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0acf"},"id":"26","semester":"2","subjectcode":"PH8251","subjectname":"Materials Science","staffname":"","dept":"CIVIL","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ad0"},"id":"27","semester":"2","subjectcode":"BE8251","subjectname":"\"Basic Electrical and ","staffname":null,"dept":null,"year":null}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ad1"},"id":"Electronics Engineering \"","semester":"Dr.K.Arulmozli","subjectcode":"CIVIL","subjectname":"1","staffname":null,"dept":null,"year":null}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ad2"},"id":"28","semester":"2","subjectcode":"BE8253","subjectname":"\"Basic Electrical","staffname":" Electronics & Instrumentation Engg.\"","dept":"\"Mrs.P.Selvi","year":"\""}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ad3"},"id":"29","semester":"2","subjectcode":"GE8291","subjectname":"Environmental Science and Engineering","staffname":"Dr.J.Dharmaraja","dept":"CIVIL","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ad4"},"id":"30","semester":"2","subjectcode":"GE8292","subjectname":"Engineering Mechanics","staffname":"Mr.P.Sundaramoorthy","dept":"CIVIL","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ad5"},"id":"31","semester":"2","subjectcode":"HS8251","subjectname":"Technical English","staffname":"Mr.M.Bharathiraja","dept":"MECH","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ad6"},"id":"32","semester":"2","subjectcode":"MA8251","subjectname":"Engineering Mathematics -II","staffname":"Mr.M.Karuppsamy","dept":"MECH","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ad7"},"id":"33","semester":"2","subjectcode":"PH8201","subjectname":"Physics For Civil Engg.","staffname":"Dr.V. Vasanth","dept":"MECH","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ad8"},"id":"34","semester":"2","subjectcode":"PH8251","subjectname":"Materials Science","staffname":"","dept":"MECH","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ad9"},"id":"35","semester":"2","subjectcode":"BE8251","subjectname":"\"Basic Electrical and ","staffname":null,"dept":null,"year":null}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ada"},"id":"Electronics Engineering \"","semester":"Dr.K.Arulmozli","subjectcode":"MECH","subjectname":"1","staffname":null,"dept":null,"year":null}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0adb"},"id":"36","semester":"2","subjectcode":"BE8253","subjectname":"\"Basic Electrical","staffname":" Electronics & Instrumentation Engg.\"","dept":"\"Mrs.P.Selvi","year":"\""}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0adc"},"id":"37","semester":"2","subjectcode":"GE8291","subjectname":"Environmental Science and Engineering","staffname":"Dr.J.Dharmaraja","dept":"MECH","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0add"},"id":"38","semester":"2","subjectcode":"GE8292","subjectname":"Engineering Mechanics","staffname":"Mr.P.Sundaramoorthy","dept":"MECH","year":"1"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ade"},"id":"39","semester":"4","subjectcode":"MA8402","subjectname":"Probability & Queuing Theory","staffname":"A.D.Ramesh Babu","dept":"CSE","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0adf"},"id":"40","semester":"4","subjectcode":"CS8491","subjectname":"Computer Architecture","staffname":"M.Senthil Kumar","dept":"CSE","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ae0"},"id":"41","semester":"4","subjectcode":"CS8492","subjectname":"Database Management Systems","staffname":"P.Kavitha Pandian","dept":"CSE","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ae1"},"id":"42","semester":"4","subjectcode":"CS8493","subjectname":"Operating Systems","staffname":"K.Menaka","dept":"CSE","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ae2"},"id":"43","semester":"4","subjectcode":"CS8494","subjectname":"Software Engineering","staffname":"K.Ramya","dept":"CSE","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ae3"},"id":"44","semester":"4","subjectcode":"CS8451","subjectname":"Design and Analysis of Algorithms","staffname":"G.Shivaji Rao ","dept":"CSE","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ae4"},"id":"45","semester":"6","subjectcode":"CS8651","subjectname":"Internet Programming","staffname":"K.Ramya","dept":"CSE","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ae5"},"id":"46","semester":"6","subjectcode":"CS8691","subjectname":"Artificial Intelligence","staffname":"K.Menaka","dept":"CSE","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ae6"},"id":"47","semester":"6","subjectcode":"CS8601","subjectname":"Mobile Computing","staffname":"G.Vadivel Murugan ","dept":"CSE","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ae7"},"id":"48","semester":"6","subjectcode":"CS8602","subjectname":"Compiler Design","staffname":"G.Shivaji Rao ","dept":"CSE","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ae8"},"id":"49","semester":"6","subjectcode":"CS8603","subjectname":"Distributed Systems","staffname":"P.Kavitha Pandian","dept":"CSE","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0ae9"},"id":"50","semester":"6","subjectcode":"CS8075","subjectname":"Data Warehousing & Data Mining","staffname":"M.Senthil Kumar","dept":"CSE","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0aea"},"id":"51","semester":"8","subjectcode":"CS6801","subjectname":"Multicore Architecture & Programming","staffname":"G.Vadivel Murugan ","dept":"CSE","year":"4"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0aeb"},"id":"52","semester":"8","subjectcode":"CS6008","subjectname":"Human Computer Interaction","staffname":"S.Muthukumar","dept":"CSE","year":"4"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0aec"},"id":"53","semester":"8","subjectcode":"GE6075","subjectname":"Professional Ethics in Engineering","staffname":"S.Ganeshkumar ","dept":"CSE","year":"4"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0aed"},"id":"54","semester":"4","subjectcode":"MA8491","subjectname":"Numerical Methods","staffname":"K.Saranya","dept":"EEE","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0aee"},"id":"55","semester":"4","subjectcode":"EE8401","subjectname":"Electrical Machines II","staffname":"J.Ganesan","dept":"EEE","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0aef"},"id":"56","semester":"4","subjectcode":"EE8402","subjectname":"Transmission and Distribution","staffname":"P.Manikandan","dept":"EEE","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0af0"},"id":"57","semester":"4","subjectcode":"EE8403","subjectname":"Measurements and Instrumentation","staffname":"S.Renuka","dept":"EEE","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0af1"},"id":"58","semester":"4","subjectcode":"EE8451","subjectname":"Linear Integrated Circuits & Applications","staffname":"A.Mariya Chithra Mary","dept":"EEE","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0af2"},"id":"59","semester":"4","subjectcode":"IC8451","subjectname":"Control Systems","staffname":"M.Muthukumaran","dept":"EEE","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0af3"},"id":"60","semester":"6","subjectcode":"EE8601","subjectname":"Solid State Drives","staffname":"J.Ganesan","dept":"EEE","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0af4"},"id":"61","semester":"6","subjectcode":"EE8602","subjectname":"Protection and  Switch Gear","staffname":"P.Manikandan","dept":"EEE","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0af5"},"id":"62","semester":"6","subjectcode":"EE8691","subjectname":"Embedded Systems","staffname":"S.Renuka","dept":"EEE","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0af6"},"id":"63","semester":"6","subjectcode":"EE8002","subjectname":"Design of Electrical Apparatus","staffname":"M.Ramachandran","dept":"EEE","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0af7"},"id":"64","semester":"6","subjectcode":"EC8395","subjectname":"Communication Engineering","staffname":"S.Bharathi","dept":"EEE","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0af8"},"id":"65","semester":"8","subjectcode":"EE6801","subjectname":"\"Electrical Energy Generation","staffname":"Utilization and Conservation\"","dept":"M.Ramachandran","year":"EEE"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0af9"},"id":"66","semester":"8","subjectcode":"EE6009","subjectname":"Power Electronics for Renewable Energy Systems","staffname":"A.Mariya Chithra Mary","dept":"EEE","year":"4"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0afa"},"id":"67","semester":"8","subjectcode":"GE6757","subjectname":"Total Quality Management","staffname":"V.Ganesh Moorthy","dept":"EEE","year":"4"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0afb"},"id":"68","semester":"4","subjectcode":"MA8451","subjectname":"Probability & Random Processes","staffname":"A.D. Ramesh Babu","dept":"ECE","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0afc"},"id":"69","semester":"4","subjectcode":"EC8452","subjectname":"Electronic Circuits II","staffname":"P. Selvi","dept":"ECE","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0afd"},"id":"70","semester":"4","subjectcode":"EC8491","subjectname":"Communication Theory","staffname":"R. Karthikkumar","dept":"ECE","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0afe"},"id":"71","semester":"4","subjectcode":"EC8451","subjectname":"Electromagnetic Fields","staffname":"P. Ananthi","dept":"ECE","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0aff"},"id":"72","semester":"4","subjectcode":"EC8453","subjectname":"Linear Integrated Circuits","staffname":"P. Stellamary","dept":"ECE","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b00"},"id":"73","semester":"4","subjectcode":"GE8291","subjectname":"Environmental Science & Engineering","staffname":"J. Dharmaraja","dept":"ECE","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b01"},"id":"74","semester":"6","subjectcode":"EC8691","subjectname":"Microprocessor & Microcontroller","staffname":"M. Elayaraja","dept":"ECE","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b02"},"id":"75","semester":"6","subjectcode":"EC8095","subjectname":"VLSI Design","staffname":"P. Sindhuja","dept":"ECE","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b03"},"id":"76","semester":"6","subjectcode":"EC8652","subjectname":"Wireless Communication","staffname":"P. Ananthi","dept":"ECE","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b04"},"id":"77","semester":"6","subjectcode":"MG8591","subjectname":"Principles of Management","staffname":"Gamesha Moorthy","dept":"ECE","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b05"},"id":"78","semester":"6","subjectcode":"EC8651","subjectname":"Transmission Lines and RF Systems","staffname":"S. Barathi","dept":"ECE","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b06"},"id":"79","semester":"6","subjectcode":"CS8792","subjectname":"Cryptography & Network Security","staffname":"P. Stellamary","dept":"ECE","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b07"},"id":"80","semester":"8","subjectcode":"EC6801","subjectname":"Wireless Communication","staffname":"P. Ananthi","dept":"ECE","year":"4"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b08"},"id":"81","semester":"8","subjectcode":"EC6802","subjectname":"Wireless Networks","staffname":"P. Sindhuja","dept":"ECE","year":"4"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b09"},"id":"82","semester":"8","subjectcode":"GE6075","subjectname":"Professional Ethics in Engineering","staffname":"R. Karthikkumar","dept":"ECE","year":"4"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b0a"},"id":"83","semester":"8","subjectcode":"GE6757","subjectname":"Total Quality Management","staffname":"M. Elayaraja","dept":"ECE","year":"4"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b0b"},"id":"84","semester":"4","subjectcode":"MA8491","subjectname":"Numerical Methods","staffname":"K.Saranya","dept":"CIVIL","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b0c"},"id":"85","semester":"4","subjectcode":"CE8401","subjectname":"Construction Techniques & Practices","staffname":"M.Petchiyammal","dept":"CIVIL","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b0d"},"id":"86","semester":"4","subjectcode":"CE8402","subjectname":"Strength of Materials II","staffname":"J.Karthick","dept":"CIVIL","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b0e"},"id":"87","semester":"4","subjectcode":"CE8403","subjectname":"Applied Hydraulic Engineering","staffname":"P.Arun Shankar","dept":"CIVIL","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b0f"},"id":"88","semester":"4","subjectcode":"CE8404","subjectname":"Concrete Technology","staffname":"S.Suriya Prakash","dept":"CIVIL","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b10"},"id":"89","semester":"4","subjectcode":"CE8491","subjectname":"Soil Mechanics","staffname":"S.Suganya","dept":"CIVIL","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b11"},"id":"90","semester":"6","subjectcode":"CE8601","subjectname":"Design of Steel Structural Elements","staffname":"S.Bharathi","dept":"CIVIL","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b12"},"id":"91","semester":"6","subjectcode":"CE8602","subjectname":"Structural Analysis II","staffname":"S.Suriya Prakash","dept":"CIVIL","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b13"},"id":"92","semester":"6","subjectcode":"CE8603","subjectname":"Irrigation Engineering","staffname":"M.Petchiyammal","dept":"CIVIL","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b14"},"id":"93","semester":"6","subjectcode":"CE8604","subjectname":"Highway Engineering","staffname":"H.Jeniston Davidraj","dept":"CIVIL","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b15"},"id":"94","semester":"6","subjectcode":"EN8592","subjectname":"Waste Water Engineering","staffname":"S.Suganya","dept":"CIVIL","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b16"},"id":"95","semester":"6","subjectcode":"CE8001","subjectname":"Ground Improvement Techniques","staffname":"S.Sivakumar","dept":"CIVIL","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b17"},"id":"96","semester":"8","subjectcode":"MG6851","subjectname":"Principles of  Management","staffname":"S.Bharathi","dept":"CIVIL","year":"4"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b18"},"id":"97","semester":"8","subjectcode":"CE6016","subjectname":"Prefabricated Structures","staffname":"S.Sivakumar","dept":"CIVIL","year":"4"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b19"},"id":"98","semester":"8","subjectcode":"CE6021","subjectname":"Repair & Rehabilitation of Structures","staffname":"H.Jeniston Davidraj","dept":"CIVIL","year":"4"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b1a"},"id":"99","semester":"4","subjectcode":"MA8452","subjectname":"Statistics and Numerical Methods","staffname":"R.Prabakaran","dept":"MECH","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b1b"},"id":"100","semester":"4","subjectcode":"ME8492","subjectname":"Kinematics of Machinery","staffname":"U.Rajkumar","dept":"MECH","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b1c"},"id":"101","semester":"4","subjectcode":"ME8451","subjectname":"Manufacturing Technology II","staffname":"T.Karthikeyan","dept":"MECH","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b1d"},"id":"102","semester":"4","subjectcode":"ME8491","subjectname":"Engineering Metallurgy","staffname":"M.Syed Frozkhan","dept":"MECH","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b1e"},"id":"103","semester":"4","subjectcode":"CE8395","subjectname":"Strength of Materials for Mechanical Engineers","staffname":"V.Ganesh Moorthy","dept":"MECH","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b1f"},"id":"104","semester":"4","subjectcode":"ME8493","subjectname":"Thermal Engineering I","staffname":"A.S. Sathis kumar","dept":"MECH","year":"2"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b20"},"id":"105","semester":"6","subjectcode":"ME8651","subjectname":"Design of Transmission Systems","staffname":"S.Ramesh Babu","dept":"MECH","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b21"},"id":"106","semester":"6","subjectcode":"ME8691","subjectname":"Computer Aided Design & Manufacturing","staffname":"U.Rajkumar","dept":"MECH","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b22"},"id":"107","semester":"6","subjectcode":"ME8693","subjectname":"Heat and Mass Transfer","staffname":"T.Karthikeyan","dept":"MECH","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b23"},"id":"108","semester":"6","subjectcode":"ME8692","subjectname":"Finite Element Analysis","staffname":"K.Periyasamy","dept":"MECH","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b24"},"id":"109","semester":"6","subjectcode":"ME8694","subjectname":"Hydraulics and Pneumatics","staffname":"P.Sundara Moorthy","dept":"MECH","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b25"},"id":"110","semester":"6","subjectcode":"ME8091","subjectname":"Automobile Engineering","staffname":"F.Jahubar Sadik","dept":"MECH","year":"3"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b26"},"id":"111","semester":"8","subjectcode":"MG6863","subjectname":"Engineering Economics","staffname":"M.Syed Frozkhan","dept":"MECH","year":"4"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b27"},"id":"112","semester":"8","subjectcode":"IE6605","subjectname":"Process Planning Cost Estimation","staffname":"R.Murugesh","dept":"MECH","year":"4"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b28"},"id":"113","semester":"8","subjectcode":"ME6016","subjectname":"Advance IC engine","staffname":"A.S. Sathis kumar","dept":"MECH","year":"4"}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b29"},"id":"","semester":"","subjectcode":"","subjectname":"","staffname":"","dept":"","year":""}
+{"_id":{"$oid":"5e676b8d5557a73ec46d0b2a"},"id":"","semester":null,"subjectcode":null,"subjectname":null,"staffname":null,"dept":null,"year":null}

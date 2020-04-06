@@ -1,0 +1,39 @@
+.cont-cust{
+    margin : {
+        top : 15%;
+    }
+    .cust-tabs{
+        border : 0;
+        .active{
+            border-bottom: 1px solid red;
+            position: relative;
+            &:before{
+                content: '';
+                position: absolute;
+                height: 10px;
+                width: 10px;
+                background:red;
+                bottom: -1px;
+                left: 45%;
+                z-index: 0; 
+                box-sizing: content-box;
+                border : none;
+                clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+
+            }
+        }
+        .nav-link{
+            border-color: transparent;
+            border : {
+                top-color : transparent;
+                left-color : transparent;
+                right-color : transparent;
+            } 
+        }
+    }
+
+}
+
+.btn-custom {
+    border-radius: 0;
+}

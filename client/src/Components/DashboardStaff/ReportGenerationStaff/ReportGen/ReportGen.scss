@@ -1,0 +1,25 @@
+.mt-75px{
+    margin-top: 75px;
+    .card{
+        .iconCardArr{
+            color: #e7eaed;
+        }
+        .export-icons{
+            text-align: center;
+            & > .pdf {
+                color: red;
+                margin: 5px;;
+                & > .icon {
+                    cursor: pointer;
+                }
+            }
+            & > .xls {
+                color: green;
+                margin: 5px;
+                & > .icon {
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+}

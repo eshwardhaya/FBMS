@@ -1,0 +1,108 @@
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b2b"},"Id":"1","regNo":"921818104001","studName":"ANAND C","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b2c"},"Id":"2","regNo":"921818104002","studName":"ANAND P","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b2d"},"Id":"3","regNo":"921818104003","studName":"BABY POOJA S","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b2e"},"Id":"4","regNo":"921818104004","studName":"DURAIMURUGAN S K","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b2f"},"Id":"5","regNo":"921818104005","studName":"GAYATHRI S","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b30"},"Id":"6","regNo":"921818104006","studName":"GNANAPONNAMMAL A","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b31"},"Id":"7","regNo":"921818104007","studName":"GOPIYA M","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b32"},"Id":"8","regNo":"921818104008","studName":"INDIRA H","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b33"},"Id":"9","regNo":"921818104009","studName":"JAYANTHI R","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b34"},"Id":"10","regNo":"921818104010","studName":"KARPAGAJOTHI B","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b35"},"Id":"11","regNo":"921818104011","studName":"KARTHIGA M","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b36"},"Id":"12","regNo":"921818104012","studName":"KEERTHIKA R M","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b37"},"Id":"13","regNo":"921818104013","studName":"LILLIJOY P","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b38"},"Id":"14","regNo":"921818104014","studName":"MADHAN S","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b39"},"Id":"15","regNo":"921818104015","studName":"MANICKA MATHAVAN M","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b3a"},"Id":"16","regNo":"921818104016","studName":"MUNEESWARI G","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b3b"},"Id":"17","regNo":"921818104017","studName":"MUNIYASAMY V","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b3c"},"Id":"18","regNo":"921818104020","studName":"PRAGATHESHWARAN S","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b3d"},"Id":"19","regNo":"921818104021","studName":"RAJAPRIYA T","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b3e"},"Id":"20","regNo":"921818104023","studName":"RANJANI K","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b3f"},"Id":"21","regNo":"921818104024","studName":"SANGARESWARI S","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b40"},"Id":"22","regNo":"921818104025","studName":"SIRANJIVIKUMAR M","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b41"},"Id":"23","regNo":"921818104026","studName":"SUGANYA V","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b42"},"Id":"24","regNo":"921818104027","studName":"SURIYAKALA R","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b43"},"Id":"25","regNo":"921818104028","studName":"VIDHYA J","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b44"},"Id":"26","regNo":"921818104029","studName":"VIJAYAPRABAKAR V","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b45"},"Id":"27","regNo":"921818104302","studName":"YOGESWARAN","year":"2","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b46"},"Id":"28","regNo":"921817104001","studName":"ABINAYA. T","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b47"},"Id":"29","regNo":"921817104002","studName":"ABIRAMI. M","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b48"},"Id":"30","regNo":"921817104003","studName":"ANITHA. R","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b49"},"Id":"31","regNo":"921817104005","studName":"AZHAGULAKSHMI.","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b4a"},"Id":"32","regNo":"921817104006","studName":"BALAMURUGAN. M","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b4b"},"Id":"33","regNo":"921817104007","studName":"BANU PRIYA. S","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b4c"},"Id":"34","regNo":"921817104008","studName":"DEEPIKA. B","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b4d"},"Id":"35","regNo":"921817104009","studName":"DURGALAKSHMI. R","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b4e"},"Id":"36","regNo":"921817104011","studName":"KALAIARASAN. M","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b4f"},"Id":"37","regNo":"921817104012","studName":"KALEESWARI. M","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b50"},"Id":"38","regNo":"921817104013","studName":"KALIMUTHU. M","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b51"},"Id":"39","regNo":"921817104014","studName":"KARTHEESWARI. A","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b52"},"Id":"40","regNo":"921817104015","studName":"KARTHIK RAJA. K","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b53"},"Id":"41","regNo":"921817104016","studName":"KOHILAVANI. V","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b54"},"Id":"42","regNo":"921817104017","studName":"KOWSALYA. K","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b55"},"Id":"43","regNo":"921817104018","studName":"KUMARAVEL. M","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b56"},"Id":"44","regNo":"921817104019","studName":"LAVANYA. G","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b57"},"Id":"45","regNo":"921817104020","studName":"LAVANYA. K","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b58"},"Id":"46","regNo":"921817104024","studName":"MUGESH PRASATH.M","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b59"},"Id":"47","regNo":"921817104025","studName":"MUTHULAKSHMI. S","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b5a"},"Id":"48","regNo":"921817104026","studName":"MUTHUMARI. N","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b5b"},"Id":"49","regNo":"921817104027","studName":"NITHYA. G","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b5c"},"Id":"50","regNo":"921817104028","studName":"PAVITHRA. K","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b5d"},"Id":"51","regNo":"921817104030","studName":"RAJALAKSHMI. M","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b5e"},"Id":"52","regNo":"921817104032","studName":"RAMYA. I","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b5f"},"Id":"53","regNo":"921817104034","studName":"SARANYA. P","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b60"},"Id":"54","regNo":"921817104035","studName":"SARAVANAPRIYA.","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b61"},"Id":"55","regNo":"921817104036","studName":"SHANTHINI. M","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b62"},"Id":"56","regNo":"921817104037","studName":"SRINIVASAKARNAN M R","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b63"},"Id":"57","regNo":"921817104038","studName":"SUGUNA. P","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b64"},"Id":"58","regNo":"921817104039","studName":"VAISHNAVI DEVI.","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b65"},"Id":"59","regNo":"921817104040","studName":"VIGNESWARAN. K","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b66"},"Id":"60","regNo":"921817104041","studName":"VISHAL. P","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b67"},"Id":"61","regNo":"921817104042","studName":"YAMUNA. P","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b68"},"Id":"62","regNo":"921817104043","studName":"YOGESWARI. N","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b69"},"Id":"63","regNo":"921817104701","studName":"MOHANA VISHNU PRIYA.R","year":"3","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b6a"},"Id":"64","regNo":"921816104001","studName":"Aarthy R","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b6b"},"Id":"65","regNo":"921816104003","studName":"Alagumurugan A","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b6c"},"Id":"66","regNo":"921816104004","studName":"Alaguraja K","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b6d"},"Id":"67","regNo":"921816104005","studName":"Anjaladevi K","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b6e"},"Id":"68","regNo":"921816104006","studName":"Arunkumar A","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b6f"},"Id":"69","regNo":"921816104007","studName":"Backiyalakshmi N","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b70"},"Id":"70","regNo":"921816104008","studName":"Banupriya V","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b71"},"Id":"71","regNo":"921816104009","studName":"Bharathi T","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b72"},"Id":"72","regNo":"921816104010","studName":"Bharathi Kumar K","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b73"},"Id":"73","regNo":"921816104011","studName":"Devapraba M","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b74"},"Id":"74","regNo":"921816104012","studName":"Dhayaleswaran C","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b75"},"Id":"75","regNo":"921816104013","studName":"Dinesh T","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b76"},"Id":"76","regNo":"921816104014","studName":"Durga K","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b77"},"Id":"77","regNo":"921816104015","studName":"Girija K","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b78"},"Id":"78","regNo":"921816104016","studName":"Janani Sri A R","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b79"},"Id":"79","regNo":"921816104017","studName":"Kaliraj S","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b7a"},"Id":"80","regNo":"921816104018","studName":"Kalki Lakshmi V","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b7b"},"Id":"81","regNo":"921816104019","studName":"Karthik K","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b7c"},"Id":"82","regNo":"921816104020","studName":"Karthikannamalai R","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b7d"},"Id":"83","regNo":"921816104021","studName":"Karthikeyan U","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b7e"},"Id":"84","regNo":"921816104022","studName":"Karunakaran R","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b7f"},"Id":"85","regNo":"921816104025","studName":"Keerthana G","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b80"},"Id":"86","regNo":"921816104028","studName":"Lakshmanan A","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b81"},"Id":"87","regNo":"921816104029","studName":"Malar K","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b82"},"Id":"88","regNo":"921816104031","studName":"Maruthuselvi M","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b83"},"Id":"89","regNo":"921816104032","studName":"Mugeshkannan K","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b84"},"Id":"90","regNo":"921816104033","studName":"Murugeswari K","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b85"},"Id":"91","regNo":"921816104034","studName":"Muthumani S","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b86"},"Id":"92","regNo":"921816104035","studName":"Nalini R","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b87"},"Id":"93","regNo":"921816104037","studName":"Ragulkumar S","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b88"},"Id":"94","regNo":"921816104038","studName":"Rajkumar K","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b89"},"Id":"95","regNo":"921816104039","studName":"Rampriyanka B","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b8a"},"Id":"96","regNo":"921816104041","studName":"Ranjitha P","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b8b"},"Id":"97","regNo":"921816104042","studName":"Sabitha K","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b8c"},"Id":"98","regNo":"921816104043","studName":"Salomiya A","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b8d"},"Id":"99","regNo":"921816104044","studName":"Seethalakshmi R","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b8e"},"Id":"100","regNo":"921816104045","studName":"Sermachitra A","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b8f"},"Id":"101","regNo":"921816104046","studName":"Sobiya R","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b90"},"Id":"102","regNo":"921816104047","studName":"Vaishnavi C","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b91"},"Id":"103","regNo":"921816104049","studName":"Vinothini R","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b92"},"Id":"104","regNo":"921816104050","studName":"Vishnu Ram K S","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b93"},"Id":"105","regNo":"921816104051","studName":"Viswasubhasini P","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b94"},"Id":"106","regNo":"921816104301","studName":"Siva M","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b95"},"Id":"107","regNo":"921816104701","studName":"Valliammal.M","year":"4","dept":"Computer  Science and Engineering","pass":"ssce@cse"}
+{"_id":{"$oid":"5e676bfc5557a73ec46d0b96"},"Id":"","regNo":null,"studName":null,"year":null,"dept":null,"pass":null}
